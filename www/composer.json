@@ -1,0 +1,7 @@
+{
+    "require": {
+        "olamedia/nokogiri": "^1.0",
+        "ext-curl": "^7.2",
+        "electrolinux/phpquery": "^0.9.6"
+    }
+}
